@@ -1,1 +1,1 @@
-# python_libraries_II
+### Практические задания по курсу "Библиотеки Python для Data Science"
